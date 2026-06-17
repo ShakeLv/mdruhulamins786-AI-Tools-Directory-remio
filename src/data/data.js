@@ -96,4 +96,11 @@ export const data = [
     img: img_12,
     buttonText: "PAID",
   },
+  {
+    id: 13,
+    name: "Remio",
+    dec: "Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into indexes and vectors...",
+    img: img_12,
+    buttonText: "FREEMIUM",
+  },
 ];
